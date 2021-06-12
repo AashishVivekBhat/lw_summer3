@@ -1,1 +1,1 @@
-# lw_summer3
+# Task_3 : Live Streaming Video Chat App without voice using cv2 module of Python
